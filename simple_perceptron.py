@@ -18,7 +18,6 @@ training_inputs = np.array(
     ]
 )
 
-
 training_outputs = np.array([
     [0,1,1,0]
 ]).T
